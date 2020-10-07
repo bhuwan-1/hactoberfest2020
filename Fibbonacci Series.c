@@ -1,10 +1,3 @@
-/*       
-          Name: Mohak Maheshwari
-          Program Name : Fibonacci Series Program   (as per list)                           
-*/
-
-/*###########################Program start################################## */
-
 #include <stdio.h>
 
 int main()
@@ -22,4 +15,4 @@ int main()
  }    
    return 0;  
 }
-/*###########################Program End################################## */
+
