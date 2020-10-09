@@ -1,6 +1,6 @@
 def Fibonacci(n):
     if n <= 0:
-        print("Invalid input")
+        print("Incorrect input")
     elif n == 1:
         return 0
     elif n == 2:
@@ -9,4 +9,4 @@ def Fibonacci(n):
         return Fibonacci(n-1)+Fibonacci(n-2)
 
 
-print(Fibonacci(16))
+print(Fibonacci(9))
